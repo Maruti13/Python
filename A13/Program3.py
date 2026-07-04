@@ -15,6 +15,7 @@ def ChkPerfect(No):
         return False
 
 def main():
+    
     Value = int(input("Enter the number : "))
     bRet = False
 
